@@ -48,24 +48,6 @@ The analysis follows a complete end-to-end pipeline:
 | Luxolo Ndwanyaza | 202352814 |
 | Karabo Seboko | 202400157 |
 
----
-
-## 📂 Repository Structure
-
-```
-NDTA63-SSG-IT-SOLUTIONS/
-├── SSG Datasets/                    # Raw and cleaned datasets
-│   ├── education/                   # Education CSV files from World Bank
-│   └── unemployment/                # Unemployment CSV files from World Bank
-├── SSG IT SOLUTIONS.ipynb                   # Main Jupyter Notebook with complete code
-
-├── requirements.txt                 # Python dependencies
-├── README.md                        # This file
-└── LICENSE                          # GNU General Public License v2.0
-```
-
----
-
 ## 📦 Dependencies
 
 The following Python packages are required (listed in `requirements.txt`):
