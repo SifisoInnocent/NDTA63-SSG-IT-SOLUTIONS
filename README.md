@@ -122,9 +122,6 @@ The notebook generates the following charts (saved in the `charts/` directory):
 1. **Line Chart** – Tertiary enrolment and unemployment over time (1991–2023)
 2. **Scatter Plot** – Education vs Unemployment with regression line
 3. **Correlation Heatmap** – Visual representation of the 0.8314 correlation
-4. **Histograms** – Distribution of education enrolment and unemployment
-5. **Box Plot** – Distribution comparison between the two indicators
-6. **Bar Chart** – Average values comparison
 
 ---
 
