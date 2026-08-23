@@ -57,16 +57,8 @@ NDTA63-SSG-IT-SOLUTIONS/
 ├── SSG Datasets/                    # Raw and cleaned datasets
 │   ├── education/                   # Education CSV files from World Bank
 │   └── unemployment/                # Unemployment CSV files from World Bank
-├── analysis.ipynb                   # Main Jupyter Notebook with complete code
-├── charts/                          # Generated visualisations (PNG)
-│   ├── education_unemployment_line.png
-│   ├── education_unemployment_scatter.png
-│   ├── correlation_heatmap.png
-│   ├── education_histogram.png
-│   ├── unemployment_histogram.png
-│   └── education_unemployment_boxplot.png
-├── database/                        # SQLite database file
-│   └── ndta631_analysis.db
+├── SSG IT SOLUTIONS.ipynb                   # Main Jupyter Notebook with complete code
+
 ├── requirements.txt                 # Python dependencies
 ├── README.md                        # This file
 └── LICENSE                          # GNU General Public License v2.0
