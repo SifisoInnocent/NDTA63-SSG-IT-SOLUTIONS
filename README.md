@@ -66,40 +66,6 @@ NDTA63-SSG-IT-SOLUTIONS/
 
 ---
 
-## 🛠️ Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/SifisoInnocent/NDTA63-SSG-IT-SOLUTIONS.git
-cd NDTA63-SSG-IT-SOLUTIONS
-```
-
-### 2. Create a Virtual Environment (Recommended)
-
-```bash
-python -m venv venv
-source venv/bin/activate        # Linux/macOS
-# or
-venv\Scripts\activate           # Windows
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open `analysis.ipynb` and run all cells sequentially.
-
----
-
 ## 📦 Dependencies
 
 The following Python packages are required (listed in `requirements.txt`):
